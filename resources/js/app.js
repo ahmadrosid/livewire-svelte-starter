@@ -1,4 +1,3 @@
-import "./libs/trix";
 import './bootstrap';
 import 'copy-icon';
 
