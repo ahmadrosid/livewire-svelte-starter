@@ -1,4 +1,4 @@
-<x-guest-layout>
+<x-layouts.app>
     <div class="max-w-md w-full bg-gray-75 mt-12 p-8 space-y-6 mx-auto">
         <!-- Logo/Brand -->
         <div class="text-center">
@@ -111,4 +111,4 @@
         }
       </script>
 
-</x-guest-layout>
+</x-layouts.app>

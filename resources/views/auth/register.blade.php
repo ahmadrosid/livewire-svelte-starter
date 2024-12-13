@@ -1,4 +1,4 @@
-<x-guest-layout>
+<x-layouts.app>
     <div class="max-w-md w-full bg-gray-75 mt-12 p-8 space-y-6 mx-auto">
         <!-- Logo/Brand -->
         <div class="text-center">
@@ -95,4 +95,4 @@
             <a href="{{ route('login') }}" class="font-medium text-sky-600 hover:text-sky-500">Sign in</a>
         </p>
     </div>
-</x-guest-layout>
+<x-layouts.app>
