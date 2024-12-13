@@ -16,6 +16,7 @@ ANTHROPIC_API_KEY=
 - **Google Auth**: Seamlessly connect your application to Google services for user authentication.
 - **Filament**: A powerful admin panel for Laravel applications, providing an intuitive interface for managing your app's data.
 - **Laravel Pulse**: A package for monitoring your Laravel application's health and performance.
+- **Svelte**: A lightweight, fast, and easy-to-use UI framework for building web applications. Used as the view layer for Livewire components.
 
 ## Running Locally
 
