@@ -10,6 +10,13 @@ This project requires an Anthropic AI API key. Please add your key to the .env f
 ANTHROPIC_API_KEY=
 ```
 
+## Features
+
+- **Liveiwire**: Built with [Livewire](https://laravel-livewire.com), enabling dynamic interfaces without leaving the page.
+- **Google Auth**: Seamlessly connect your application to Google services for user authentication.
+- **Filament**: A powerful admin panel for Laravel applications, providing an intuitive interface for managing your app's data.
+- **Laravel Pulse**: A package for monitoring your Laravel application's health and performance.
+
 ## Running Locally
 
 First install php dependencies
@@ -49,4 +56,3 @@ Optimize the env.
 ```bash
 php artisan optimize
 php artisan filament:optimize
-```
